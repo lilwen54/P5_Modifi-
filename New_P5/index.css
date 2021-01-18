@@ -1,0 +1,16 @@
+/*GENERAL*/
+*
+{margin: 0px;
+padding: 0px;
+}
+
+body {text-align: center;}
+
+button {padding: 5px;}
+
+#A {color : blue}
+#B {color : red}
+
+img {width: 300px !important; height: 210px !important;}
+
+.img {top:2px;}
